@@ -5,11 +5,11 @@
 !!!YOY:1913
 !!!ONB: National
 **kern	**dynam
-*>[A,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2]	*>[A,B,B1,B,B2,C]
+*>[A,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2]	*>[A,B,B1,B,B2,C,C1,C,C2,D,D1,D,D2]
 *>A	*>A
 *clefG2	*
 *k[]	*
-*C:	*
+*a:	*
 *M2/4	*
 =1	=1
 !LO:TX:a:B:t=Allegro moderato	!
@@ -102,77 +102,73 @@
 8ccJ)	.
 =16	=16
 4cc	.
-8bL	.
-8ccJ	.
+8eL	.
+8fJ	.
 *>C	*>C
 =17!|:	=17!|:
-*k[f#]	*
-*G:	*
-4b 4dd	f
-4b 4dd	.
+4g	f
+4g	.
 =18	=18
-(24eeLL	.
-24ff#	.
-24eeJ	.
-8ggJ)	.
-(24eeLL	.
-24ff#	.
-24eeJ	.
-8ggJ)	.
+(24aLL	.
+24b	.
+24aJ	.
+8ccJ)	.
+(24aLL	.
+24b	.
+24aJ	.
+8ccJ)	.
 =19	=19
-8ddL	.
-8bJ	.
-8aL	.
-8gJ	.
+8gL	.
+8eJ	.
+8dL	.
+8cJ	.
 =20	=20
-2e	.
+2A	.
 =21	=21
-(8dL	mf
-8eJ	.
-8gL	.
-8eJ)	.
+(8GL	mf
+8AJ	.
+8cL	.
+8AJ)	.
 =22	=22
-(8dL	.
-8eJ	.
-8gL	.
-8bJ)	.
+(8GL	.
+8AJ	.
+8cL	.
+8eJ)	.
 =23	=23
-(16aLL	.
-16b	.
-16a	.
-16gJJ	.
-8eL	.
-8gJ)	.
+(16dLL	.
+16e	.
+16d	.
+16cJJ	.
+8AL	.
+8cJ)	.
 =24	=24
 *>C1	*>C1
-4a	f
-8bL	.
-8ccJ	.
+4d	f
+8eL	.
+8fJ	.
 =25:|!	=25:|!
 *>C2	*>C2
-4.g	.
+4.c	.
 8r	.
 =26!|:	=26!|:
 *>D	*>D
-*k[]	*
-*C:	*
-4cc 4ee 4gg	f
-4cc 4ee 4aa	.
+4gg	f
+4aa	.
 =27	=27
-8ccL 8ee 8gg	.
-8ccJ 8ee 8gg	.
-4cc 4ee 4aa	.
+8ggL	.
+8ggJ	.
+4aa	.
 =28	=28
 16ggLL	.
-16cc 16ee	.
+16ee	.
 16gg	.
-16ccJJ 16ee	.
+16eeJJ	.
 8aaL	.
-8ccJ 8ee 8aa	.
+8aaJ	.
 =29	=29
-8ccL 8ee 8gg	.
-8ccJ 8ee 8gg	.
-4cc 4ee 4aa	.
+8ggL	.
+8ggJ	.
+4aa	.
 =30	=30
 8cccL	.
 8aaJ	.
@@ -199,7 +195,7 @@
 *>D2	*>D2
 8gL	.
 8aJ	.
-8g 8cc	.
+8cc	.
 8r	.
 !LO:TX:b:rj:Bi:t=D.C.	!
 =||	=||
