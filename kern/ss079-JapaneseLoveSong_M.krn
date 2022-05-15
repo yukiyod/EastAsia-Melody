@@ -1,235 +1,188 @@
 !!!!SEGMENT: ss079-JapaneseLoveSong_M.krn
-!!!COM: J.S.ZAMECNIK
+!!!COM: J.S. Zamecnik
 !!!OTL: Japanese Love Song
 !!!OPR:Sam Fox Moving Picture Music, Volume2
 !!!YOY:1913
 !!!ONB: National
-!!!COM: J.S. Zamecnik
 **kern	**dynam
 *clefG2	*
-*k[f#]	*
-*G:	*
+*k[]	*
+*C:	*
 *M4/4	*
 *met(c)	*
 =1	=1
 !LO:TX:a:B:t=Andante moderato	!
-(8dL	p
+(8GL	p
 !LO:TX:b:i:t=espress.	!
-8e	.
-8g	.
-8bJ)	.
-(16ddLL	.
-16ee	.
-16gg	.
-16eeJJ	.
-16ddLL	.
-16b	.
+8A	.
+8c	.
+8eJ)	.
+(16gLL	.
 16a	.
-16gJJ)	.
+16cc	.
+16aJJ	.
+16gLL	.
+16e	.
+16d	.
+16cJJ)	.
 =2	=2
-*^	*
-2b	8rc	<
-.	4c#X 4g	.
-.	8c# 8g	.
-2dd	8rc	[
-.	4d 4f# 4a#X	>
-.	8d 8f# 8a#	]]
-*v	*v	*
+2e	<
+2g	[ > ]]
 =3	=3
-(8dL	.
-8e	.
-8g	.
-8bJ)	.
-(16ddLL	.
-16ee	.
-16gg	.
-16eeJJ	.
-16ddLL	.
-16b	.
+(8GL	.
+8A	.
+8c	.
+8eJ)	.
+(16gLL	.
 16a	.
-16gJJ)	.
+16cc	.
+16aJJ	.
+16gLL	.
+16e	.
+16d	.
+16cJJ)	.
 =4	=4
-*^	*
-2b	8rc	<
-.	4c#X 4g	.
-.	8c# 8g	.
-2a	8rc	[
-.	4cn 4f#	>
-.	8c 8f#	]]
-*v	*v	*
+2e	<
+2d	[ > ]]
 =5	=5
-(8gL	.
-8a	.
-8b	.
-8eeJ)	.
-(16f#LL 16b 16dd	.
-16ee	.
-16dd	.
-16bJJ	.
-4dd)	.
-=6	=6
-*^	*
-(8eL	2ryy	.
-8f#	.	.
-8g	.	.
-8ccJ)	.	.
-(16dLL 16b	4ryy	.
-16a	.	.
-16g	.	.
-16eJJ)	.	.
-4a	(8eL	.
-.	8f#J)	.
-*v	*v	*
-=7	=7
-(8dL	.
+(8cL	.
+8d	.
 8e	.
-8g	.
-8bJ)	.
-(16ddLL	.
-16ee	.
-16gg	.
-16eeJJ	.
-16ddLL	.
-16b	.
+8aJ)	.
+(16gLL	.
 16a	.
-16gJJ)	.
+16g	.
+16eJJ	.
+4g)	.
+=6	=6
+(8AL	.
+8B	.
+8c	.
+8fJ)	.
+(16eLL	.
+16d	.
+16c	.
+16AJJ)	.
+4d	.
+=7	=7
+(8GL	.
+8A	.
+8c	.
+8eJ)	.
+(16gLL	.
+16a	.
+16cc	.
+16aJJ	.
+16gLL	.
+16e	.
+16d	.
+16cJJ)	.
 =8	=8
-*^	*
-2b	8rc	<
-.	4c#X 4g	.
-.	8c# 8g	.
-2dd	8rc	[
-.	4d 4f# 4a#X	>
-.	8d 8f# 8a#	]]
-=9	=9	=9
-!LO:TX:b:i:t=poco rall -  -   -   -   -	!	!
-[2gg	2g 2b	.
-2gg]	4g 4b	.
-.	4g 4b	.
-*v	*v	*
+2e	<
+2g	[ > ]]
+=9	=9
+!LO:TX:b:i:t=poco rall -  -   -   -   -	!
+[2cc	.
+2cc]	.
 =10	=10
-2.g 2.b 2.gg	.
+2.cc	.
 4r	.
 !LO:TX:b:i:t=Fine	!
 =11||	=11||
-*k[f#c#]	*
-*D:	*
 !LO:TX:a:t=Poco animato	!
-8aL 8dd 8ff#	mf
-(8aJ 8dd 8ff#	.
-16bLL 16ee	.
-16ff#	.
+8eeL	mf
+(8eeJ	.
+16ddLL	.
 16ee	.
-16ddJJ)	.
-(16bLL	.
 16dd	.
-16b	.
-16aJJ	.
-16f#LL	.
+16ccJJ)	.
+(16aLL	.
+16cc	.
+16a	.
+16gJJ	.
+16eLL	.
+16c	.
 16d	.
-16e	.
-16f#JJ)	.
+16eJJ)	.
 =12	=12
-*^	*
-(4a	8rc	.
-.	8dL 8f#	.
-4b	8r	.
-.	8dJ 8f#	.
-4dd	8rg	.
-.	8f#L 8a	.
-4ee)	8rg	.
-.	8gJ 8b	.
-=13	=13	=13
-8aL 8dd 8ff#	2ryy	<
-(8aJ 8dd 8ff#	.	.
-16bLL 16ee	.	.
-16ff#	.	.
-16ee	.	.
-16ddJJ)	.	[
-!LO:TX:a:i:t=poco meno mosso	!	!
-(8aaL	8AAL	.
-8cc# 8ff#	8a	.
-8b 8ee	8g	.
-8cc#J) 8ff#	8aJ	.
-=14	=14	=14
-8ddL	(4b	>
-(8ddJ	.	.
-16cc#LL	4a)	.
-16dd	.	.
-16cc#	.	.
-16aJJ	.	.
-2b)	(4f#	]
-.	4e) 4g	.
-*v	*v	*
+(4g	.
+4a	.
+4cc	.
+4dd)	.
+=13	=13
+8eeL	<
+(8eeJ	.
+16ddLL	.
+16ee	.
+16dd	.
+16ccJJ)	[
+!LO:TX:a:i:t=poco meno mosso	!
+(8ggL	.
+8ee	.
+8dd	.
+8eeJ)	.
+=14	=14
+8ccL	>
+(8ccJ	.
+16bLL	.
+16cc	.
+16b	.
+16gJJ	.
+2a)	]
 =15	=15
 !LO:TX:b:t=Poco animato	!
-8aL 8dd 8ff#	.
-(8aJ 8dd 8ff#	.
-16bLL 16ee	.
-16ff#	.
+8eeL	.
+(8eeJ	.
+16ddLL	.
 16ee	.
-16ddJJ)	.
-(16bLL	.
 16dd	.
-16b	.
-16aJJ	.
-16f#LL	.
+16ccJJ)	.
+(16aLL	.
+16cc	.
+16a	.
+16gJJ	.
+16eLL	.
+16c	.
 16d	.
-16e	.
-16f#JJ)	.
+16eJJ)	.
 =16	=16
-*^	*
-(4a	8rc	.
-.	8dL 8f#	.
-4b	8r	.
-.	8dJ 8f#	.
-4dd	8rg	.
-.	8f#L 8a	.
-4ee)	8rg	.
-.	8gJ 8b	.
-=17	=17	=17
-!LO:TX:b:i:t=cresc.	!	!
-8aL 8dd 8ff#	2ryy	.
-(8aJ 8dd 8ff#	.	.
-16bLL 16ee	.	.
-16ff#	.	.
-16ee	.	.
-16ddJJ)	.	.
-2aa^	8rb	.
-.	(4a^ 4cc# 4ff#	.
-.	8a) 8cc# 8ee	.
-=18	=18	=18
-8aL 8dd 8ff#	2ryy	.
-(8aJ 8dd 8ff#	.	.
-16bLL 16ee	.	.
-16ff#	.	.
-16ee	.	.
-16ddJJ)	.	.
-2bb^	8rb	.
-.	(4b^ 4dd 4ff#	.
-.	8b) 8dd 8ee	.
-*v	*v	*
-=19	=19
-(8ddL 8ff# 8ddd	f
-8b 8ff# 8bb	.
-8a 8ff# 8aa	.
-8bJ) 8ff# 8bb	.
-8aL 8dd 8ff#	.
-(8aJ 8dd 8ff#	.
-!LO:TX:b:i:t=dim.	!
-16bLL 16ee	.
-16ff#	.
+(4g	.
+4a	.
+4cc	.
+4dd)	.
+=17	=17
+!LO:TX:b:i:t=cresc.	!
+8eeL	.
+(8eeJ	.
+16ddLL	.
 16ee	.
+16dd	.
+16ccJJ)	.
+2gg^	.
+=18	=18
+8eeL	.
+(8eeJ	.
+16ddLL	.
+16ee	.
+16dd	.
+16ccJJ)	.
+2aa^	.
+=19	=19
+(8cccL	f
+8aa	.
+8gg	.
+8aaJ)	.
+8eeL	.
+(8eeJ	.
+!LO:TX:b:i:t=dim.	!
+16ddLL	.
+16ee	.
+16dd	.
 !LO:TX:b:i:t=rit.	!
-16bJJ)	.
+16aJJ)	.
 =20	=20
-*^	*
-[2dd	8rc	.
-.	8a	.
-.	4g 4b	.
-2dd]	2f# 2a	.
-*v	*v	*
-!LO:TX:b:rj:Bi:t=D.C. al Fine	!
+[2cc	.
+2cc]	.
 ==	==
 *-	*-
 !!!ENC: Yukiko Yoden
